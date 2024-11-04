@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2e2b70-5328-4bf6-bc15-62b2e29f02d6" name="Changes" comment="Day 24 start">
-      <change afterPath="$PROJECT_DIR$/.idea/app4_pdf_template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf2e2b70-5328-4bf6-bc15-62b2e29f02d6" name="Changes" comment="Day 24: add more pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730720015071</updated>
       <workItem from="1730720021295" duration="4511000" />
-      <workItem from="1730732169362" duration="2176000" />
+      <workItem from="1730732169362" duration="4169000" />
     </task>
     <task id="LOCAL-00001" summary="Day 24 start">
       <option name="closed" value="true" />
@@ -113,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730732050015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 24: add more pages">
+      <option name="closed" value="true" />
+      <created>1730737423217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730737423217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,9 +134,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 24 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 24 start" />
+    <MESSAGE value="Day 24: add more pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 24: add more pages" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/app4_pdf_template$main.coverage" NAME="main Coverage Results" MODIFIED="1730732352614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app4_pdf_template$main.coverage" NAME="main Coverage Results" MODIFIED="1730744078674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
